@@ -1,6 +1,3 @@
-实验过程：
-二、代码
-
 # include < iostream >
 # include < string>
 using namespace std;
